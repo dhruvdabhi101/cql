@@ -4,8 +4,13 @@
 - Compile the main.c file with `gcc main.c`
 - run main.c file with `./a.out`
 
+Or Else
+- run `make`
+- run './main'
+
 - [X] REPL
 - [ ] B Tree implementation
-- [ ] Virutal Machine
+- [X] Virutal Machine
 - [ ] Cursor Abstraction
+
 
